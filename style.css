@@ -1,0 +1,4 @@
+.nav-bar-dark .navbar-nav .nav-link{
+    color: rbg(255,255,255); /*important*/
+    font-weight: 400;
+}
